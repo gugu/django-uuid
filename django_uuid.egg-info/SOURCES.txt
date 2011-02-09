@@ -1,6 +1,0 @@
-setup.py
-django_uuid.egg-info/PKG-INFO
-django_uuid.egg-info/SOURCES.txt
-django_uuid.egg-info/dependency_links.txt
-django_uuid.egg-info/requires.txt
-django_uuid.egg-info/top_level.txt
